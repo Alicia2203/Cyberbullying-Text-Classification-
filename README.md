@@ -1,4 +1,4 @@
-# Cyberbullying Text Classification Model to detect Cyberbullying Speech
+# Cyberbullying Text Classification Model
 Scraped Twitter Data with Twitter API and created a text classifier using supervised machine learning techniques to detect offensive comments which are perceived to result in cyberbullying.
 
 ## Introduction
