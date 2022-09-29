@@ -19,10 +19,10 @@ import pandas as pd # For saving the response data in CSV format
                # Get Authenticaiton Acess from Twitter Api  #
 ###############################################################################
 
-consumer_key = "rfUoC2hizynpQnansDPqWPwc3"
-consumer_secret = "YTPBSLCEziH4GTagZ6NUuffrt4NfSN3dZivxodNhgu9zJkZBoM" 
-access_key = "2761702328-lIjz6FcrP7fVwzSwiyjno5vb95jrdcktlF7tb32"
-access_secret = "eoLjIuwECwi8aGWArTkToISqxeTygXFfqY82VkSlRzJe4" 
+consumer_key = "xxx"
+consumer_secret = "xxx" 
+access_key = "xxx"
+access_secret = "xxx" 
 
 def twitter_setup():
     # Authentication and access using keys
